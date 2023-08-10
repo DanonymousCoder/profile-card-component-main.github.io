@@ -51,3 +51,6 @@ hr {
     text-align: center;
     padding-top: 50px;
 }
+.flex p.head {
+    font-weight: bolder;
+}
