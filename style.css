@@ -21,6 +21,7 @@
 .div1 {
     background-image: url('./images/bg-pattern-card.svg');
     height: 150px;
+    width: 450px;
     position: absolute;
 }
 .vic {
