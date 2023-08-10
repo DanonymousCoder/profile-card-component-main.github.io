@@ -10,7 +10,7 @@
 }
 .card {
     background-color: white;
-    height: 100vh;
+    height: 500px;
 }
 .div1 {
     background-image: url('./images/bg-pattern-card.svg');
