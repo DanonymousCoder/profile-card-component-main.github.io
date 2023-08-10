@@ -4,7 +4,7 @@
 }
 .container {
     background-color: hsl(185, 75%, 39%);
-    position: relative;
+    position: absolute;
 }
 .top {
     height: 50px;
