@@ -33,6 +33,6 @@
     left: 170px;
 }
 .txt {
-    background-color: yellowgreen;
+    position: relative;
     top: 200px;
 }
