@@ -9,5 +9,5 @@
     height: 100%;
 }
 .div1 {
-    background-color: url('./images/bg-pattern-card.svg');
+    background-image: url('./images/bg-pattern-card.svg');
 }
