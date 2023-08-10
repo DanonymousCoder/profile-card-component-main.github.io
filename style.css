@@ -5,6 +5,7 @@
 .container {
     background-color: hsl(185, 75%, 39%);
     position: absolute;
+    width: 100%;
 }
 .top {
     height: 350px;
