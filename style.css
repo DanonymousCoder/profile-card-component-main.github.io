@@ -41,3 +41,7 @@
     font-weight: bolder;
     font-size: 25px;
 }
+hr {
+    position: relative;
+    top: 500;
+}
