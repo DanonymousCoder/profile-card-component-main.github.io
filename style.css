@@ -44,3 +44,6 @@
 hr {
    margin-top: 270px;
 }
+.flex {
+    display: flex;
+}
