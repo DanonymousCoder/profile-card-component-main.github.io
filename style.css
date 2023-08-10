@@ -11,7 +11,7 @@
 .top {
     height: 350px;
 }
-.bottom {
+.container img.bottom {
     height: 350px;
     position: relative;
     margin-left: 1000;
