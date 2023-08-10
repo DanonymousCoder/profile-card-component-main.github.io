@@ -16,3 +16,6 @@
     background-image: url('./images/bg-pattern-card.svg');
     height: 70px;
 }
+.vic {
+    border-radius: 50%;
+}
