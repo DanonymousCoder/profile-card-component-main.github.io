@@ -49,4 +49,5 @@ hr {
     gap: 2rem;
     justify-content: space-around;
     text-align: center;
+    padding-top: 50px;
 }
