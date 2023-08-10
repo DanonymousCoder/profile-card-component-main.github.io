@@ -7,10 +7,10 @@
     position: absolute;
 }
 .top {
-    height: 50px;
+    height: 350px;
 }
 .bottom {
-    height: 50px;
+    height: 350px;
     position: relative;
     bottom: 0;
     right: 0;
