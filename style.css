@@ -4,10 +4,12 @@
 }
 .container {
     background-color: hsl(185, 75%, 39%);
+    position: relative;
 }
 .top {
     height: 50px;
 }
 .bottom {
     height: 50px;
+    position: relative;
 }
