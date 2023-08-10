@@ -37,3 +37,6 @@
     top: 250px;
     text-align: center;
 }
+.name {
+    font-weight: bolder;
+}
