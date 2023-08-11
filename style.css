@@ -66,4 +66,5 @@ hr {
 }
 .flex p.sub {
     font-weight: 400;
+    color: hsl(0, 0%, 59%);
 }
