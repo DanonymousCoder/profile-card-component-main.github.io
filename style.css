@@ -27,6 +27,7 @@
     height: 150px;
     width: 390px;
     position: absolute;
+    border-radius: 7px;
 }
 .vic {
     border-radius: 50%;
