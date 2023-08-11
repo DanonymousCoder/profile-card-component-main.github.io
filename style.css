@@ -48,6 +48,7 @@
 hr {
    margin-top: 270px;
    border: 1px solid hsl(0, 0%, 59%);
+   font-weight: 40;
 }
 .flex {
     display: flex;
