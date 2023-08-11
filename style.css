@@ -26,6 +26,7 @@
     background-image: url('./images/bg-pattern-card.svg');
     height: 150px;
     width: 400px;
+    padding: 5px;
     position: absolute;
 }
 .vic {
