@@ -64,3 +64,6 @@ hr {
     color: black;
     font-weight: 700;
 }
+.flex p.sub {
+    font-weight: 400;
+}
