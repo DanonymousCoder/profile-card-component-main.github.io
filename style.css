@@ -47,6 +47,7 @@
 }
 .txt p.location {
     color: hsl(0, 0%, 59%);
+    font-size: 18px;
 }
 hr {
    margin-top: 270px;
