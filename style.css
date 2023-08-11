@@ -4,7 +4,7 @@
 }
 .container {
     background: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
-    background-position: right 52vw bottom 35vh, left 48vw top 35vh;
+    background-position: right 52vw bottom 35vh, left 52vw top 35vh;
     background-repeat: no-repeat, no-repeat;
     background-color: hsl(185, 75%, 39%);
     position: absolute;
