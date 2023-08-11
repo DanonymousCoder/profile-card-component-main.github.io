@@ -8,6 +8,7 @@
     width: 100%;
     height: 100%;
     position: absolute;
+    font-family: 'Kumbh Sans';
 }
 .card {
     background-color: white;
