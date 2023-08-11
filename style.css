@@ -49,6 +49,9 @@
     font-size: 25px;
     font-weight: 700;
 }
+.name span {
+    color: hsl(0, 0%, 59%);
+}
 .txt p.location {
     color: hsl(0, 0%, 59%);
     font-size: 20px;
