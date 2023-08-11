@@ -45,6 +45,9 @@
     font-size: 25px;
     font-weight: 700;
 }
+.text .location {
+    color: hsl(0, 0%, 59%);
+}
 hr {
    margin-top: 270px;
    border: 1px solid hsl(0, 0%, 59%);
