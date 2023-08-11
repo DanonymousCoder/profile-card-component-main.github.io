@@ -45,7 +45,7 @@
     font-size: 25px;
     font-weight: 700;
 }
-.text .location {
+.text pad.location {
     color: hsl(0, 0%, 59%);
 }
 hr {
