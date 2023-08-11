@@ -60,6 +60,7 @@ hr {
     justify-content: space-around;
     text-align: center;
     padding-top: 50px;
+    padding-left: 20px;
 }
 .flex p.head {
     font-weight: bolder;
