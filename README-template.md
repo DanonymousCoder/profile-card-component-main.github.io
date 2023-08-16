@@ -37,7 +37,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Flexbox
 - CSS Grid
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
