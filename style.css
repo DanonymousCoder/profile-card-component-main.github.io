@@ -59,7 +59,7 @@
 .thin-line {
     width: 100px;
     height: 1px;
-    background-color: #000;
+    background-color: #e0e0e0; /* Very light gray color */
   }
 .flex {
     display: flex;
