@@ -56,11 +56,11 @@
     color: hsl(0, 0%, 59%);
     font-size: 20px;
 }
-hr {
-   margin-top: 270px;
-   border: 1px solid hsl(0, 0%, 59%);
-   font-weight: 40;
-}
+.thin-line {
+    width: 100px;
+    height: 1px;
+    background-color: #000;
+  }
 .flex {
     display: flex;
     gap: 2rem;
