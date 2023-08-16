@@ -57,6 +57,7 @@
     font-size: 20px;
 }
 .thin-line {
+    margin-top: 270px;
     width: 100px;
     height: 1px;
     background-color: #e0e0e0; /* Very light gray color */
